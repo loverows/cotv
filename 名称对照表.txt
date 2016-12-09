@@ -1,0 +1,6 @@
+首页：        index.html
+子频道1：     channel.html
+子频道2：     channel2.html
+电视剧详情页：detail.html
+播放页1：     play_one.html
+播放页2：     play_two.html
